@@ -7,5 +7,5 @@ import guru.springframework.sfgpetclinic.services.CrudService;
  * @author tsvetkov
  * @created 2020-11-29
  */
-public interface SpecialtiesService extends CrudService<Speciality, Long> {
+public interface SpecialtyService extends CrudService<Speciality, Long> {
 }
